@@ -10,8 +10,8 @@ extensions = [
 source_suffix = '.rst'
 master_doc = 'index'
 
-project = u'CPU Opcodes'
-copyright = u'2014-2017, Georgia Institute of Technology'
+project = 'CPU Opcodes'
+copyright = '2014-2017, Georgia Institute of Technology'
 
 version = __version__
 release = __version__
